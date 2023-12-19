@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed on your machine:
     yarn dev
     ```
 
-    Your Vite React project should be running at `http://localhost:3000`.
+    Your Vite React project should be running at `http://localhost:5173`.
 
 ## Building for Production
 
